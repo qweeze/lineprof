@@ -23,6 +23,7 @@ optional arguments:
 
 ### Example
 
+example.py
 ```python
 import time
 
@@ -42,6 +43,7 @@ if __name__ == '__main__':
     main()
 ```
 
+Output:
 <p align="center">
-  <img src="https://github.com/qweeze/lineprof/raw/master/example.png?raw=true" width=75% alt="screenshot"/>
+  <img src="https://github.com/qweeze/lineprof/raw/master/example.png?raw=true" width=100% alt="screenshot"/>
 </p>
