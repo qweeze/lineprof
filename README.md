@@ -43,5 +43,5 @@ if __name__ == '__main__':
 ```
 
 <p align="center">
-  <img src="https://github.com/qweeze/lineprof/raw/master/doc/example.png?raw=true" width=75% alt="screenshot"/>
+  <img src="https://github.com/qweeze/lineprof/raw/master/example.png?raw=true" width=75% alt="screenshot"/>
 </p>
